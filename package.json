@@ -1,0 +1,22 @@
+{
+  "name": "advent-of-code-2024",
+  "version": "1.0.0",
+  "description": "",
+  "engines": {
+    "deno": "2.0.0"
+  },
+  "type": "module",
+  "main": "index.ts",
+  "scripts": {
+    "start": "bun index.ts"
+  },
+  "author": "Dzmitry Tselabionak",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/bun": "latest",
+    "prettier": "3.4.2"
+  },
+  "peerDependencies": {
+    "typescript": "5.7.2"
+  }
+}
