@@ -1,4 +1,4 @@
-import { getInput } from '../../utils/files.ts';
+import { getInput } from '../../utils/files';
 import { EOL } from 'node:os';
 
 export const validateCoords = ({

@@ -18,5 +18,8 @@
   },
   "peerDependencies": {
     "typescript": "5.7.2"
+  },
+  "dependencies": {
+    "heap-js": "^2.5.0"
   }
 }

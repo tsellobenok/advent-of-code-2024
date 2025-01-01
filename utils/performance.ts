@@ -1,7 +1,7 @@
 export const measurePerformance = (fn: () => any) => {
   const results = [];
 
-  for (let i = 0; i < 1000; i++) {
+  for (let i = 0; i < 1; i++) {
     performance.mark('start');
     fn();
     performance.mark('end');
